@@ -5,3 +5,4 @@ def greet(name):
 
 
 greet(Saumya)
+greet(Aryan)
